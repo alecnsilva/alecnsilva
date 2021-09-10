@@ -24,7 +24,4 @@
   <a href="https://www.twitter.com/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC95BrZFqghemqnEcnm0dWfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  </div>
- 
- ##
- 
- <div style="width: 480px; height: 360px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:480px; height:360px" src="https://lucid.app/documents/embeddedchart/fca9d3fe-0009-420e-9dc7-3d70b272e02b" id="6Lm.ZzP793HM"></iframe></div>
+
