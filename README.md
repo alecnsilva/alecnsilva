@@ -23,8 +23,9 @@
   <a href="https://www.twitter.com/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC95BrZFqghemqnEcnm0dWfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  <a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-FF0000?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow?style=for-the-badge&logo=stackoverflow" target="_blank"></a>
   
+  <img alt="Stack Exchange monthly questions" src="https://img.shields.io/stackexchange/stackoverflow/qm/kotlin?logo=stackoverflow">
   
  </div>
 
