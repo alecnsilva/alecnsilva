@@ -1,4 +1,5 @@
-## Blz personas... Sou Alec, degustador tecnológico!<p align="right"> <img src="https://komarev.com/ghpvc/?username=alecnsilva&label=Profile%20views&color=0e75b6&style=flat" alt="Alec N Silva" /> </p>
+## Blz personas... Sou Alec, degustador tecnológico!<img align="right" src="https://komarev.com/ghpvc/?username=alecnsilva&label=Profile%20views&color=0e75b6&style=flat" alt="Alec N Silva" />
+
  <div align="center">
   <a href="https://github.com/alecnsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecnsilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
