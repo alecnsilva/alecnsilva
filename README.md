@@ -25,4 +25,6 @@
   <a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   
  </div>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecnsilva&label=Profile%20views&color=0e75b6&style=flat" alt="Alec N Silva" /> </p>
 
