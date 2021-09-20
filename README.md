@@ -4,7 +4,9 @@
   <a href="https://github.com/alecnsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecnsilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecnsilva&layout=compact&langs_count=7&theme=nord"/>
-  [Alec Github Activity graph](https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
+  <div align="center">
+   [Alec Github Activity graph](https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
+  </div>
 </div>
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Alec-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
@@ -25,5 +27,4 @@
   <a href="https://www.youtube.com/channel/UC95BrZFqghemqnEcnm0dWfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
-  
  </div>
