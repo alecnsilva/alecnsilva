@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecnsilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecnsilva&layout=compact&langs_count=7&theme=nord"/>
   <div align="center">
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=2E3440&color=A97BFF&line=24292e&point=24292e&area=true&hide_border=true"/>
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=2E3440&color=A97BFF&line=14292e&point=24292e&area=true&hide_border=false"/>
   </div>
 </div>
 <div align="center" style="display: inline_block"><br>
