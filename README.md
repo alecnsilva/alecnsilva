@@ -6,8 +6,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecnsilva&layout=compact&langs_count=7&theme=nord"/>
   <div align="center">
   <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=22272E&color=7490AC&line=14292e&point=24292e&area=true&hide_border=true"/>
-  </div>
   <img height="300" width="400" src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg">
+
+   </div>
 </div>
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Alec-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
