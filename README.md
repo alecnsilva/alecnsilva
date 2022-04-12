@@ -28,3 +28,5 @@
   <a href="https://www.twitter.com/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
  </div>
+ 
+ <div><figure><embed src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg"></embed></figure></div>
