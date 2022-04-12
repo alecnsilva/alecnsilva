@@ -5,7 +5,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alecnsilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecnsilva&layout=compact&langs_count=7&theme=nord"/>
   <div align="center">
-  <img width="755em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=22272E&color=7490AC&line=14292e&point=24292e&area=true&hide_border=true"/>
+  <img width="160em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=22272E&color=7490AC&line=14292e&point=24292e&area=true&hide_border=true"/>
+  <img width="160em" src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg">
   </div>
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -29,4 +30,3 @@
   <a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
  </div>
  
- <img align="center" alt="Alec-Android" height="30" width="40" src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg"></embed>
