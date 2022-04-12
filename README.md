@@ -6,8 +6,8 @@
 	<img height="190em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=22272E&color=7490AC&line=14292e&point=24292e&area=true&hide_border=true"/>
 	<img height="190" width="295" src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg">
 </div>
-
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block"><br>
+<div align="center">
 	<a href="https://www.linkedin.com/in/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="mailto:alec.ns@pm.me"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.youtube.com/channel/UC95BrZFqghemqnEcnm0dWfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -15,7 +15,7 @@
 	<a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center" style="display: inline_block">
+<div align="center">
 	<img align="center" alt="Alec-Android" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
 	<img align="center" alt="Alec-Kt" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 	<img align="center" alt="Alec-Dart" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
