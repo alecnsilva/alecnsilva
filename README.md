@@ -7,7 +7,7 @@
 	<img height="190em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=22272E&color=7490AC&line=14292e&point=24292e&area=true&hide_border=true"/>
 	<img height="190" width="295" src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg">
 </div>
-
+###
 <div align="center"> 
 	<a href="https://www.linkedin.com/in/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href = "mailto:alec.ns@pm.me"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
@@ -26,4 +26,5 @@
 	<img align="center" alt="Alec-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Alec-Ts" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+###
 </a>
