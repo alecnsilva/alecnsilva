@@ -1,19 +1,18 @@
 ## Blz personas... Sou Alec, degustador tecnológico!<img align="right" src="https://komarev.com/ghpvc/?username=alecnsilva&label=Profile%20views&color=0e75b6&style=flat" alt="Alec N Silva" />
 <a href="https://github.com/alecnsilva">
-
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecnsilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecnsilva&layout=compact&langs_count=7&theme=nord"/>
 	<img height="190em" src="https://activity-graph.herokuapp.com/graph?username=alecnsilva&bg_color=22272E&color=7490AC&line=14292e&point=24292e&area=true&hide_border=true"/>
 	<img height="190" width="295" src="https://wakatime.com/share/@alecnsilva/5991f07b-9a95-4d18-983e-aa645f373575.svg">
 </div>
-
+##
 <div align="center" style="display: inline_block">
-	<a href="https://www.linkedin.com/in/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
-	<a href="mailto:alec.ns@pm.me"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a><br>
-	<a href="https://www.youtube.com/channel/UC95BrZFqghemqnEcnm0dWfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><br>
-	<a href="https://www.twitter.com/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><br>
-	<a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a><br>
+	<a href="https://www.linkedin.com/in/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="mailto:alec.ns@pm.me"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.youtube.com/channel/UC95BrZFqghemqnEcnm0dWfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+	<a href="https://www.twitter.com/alecnsilva/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+	<a href="https://stackoverflow.com/users/12901349/alec-n-silva" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center" style="display: inline_block">
